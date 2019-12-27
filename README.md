@@ -4,7 +4,7 @@ A laboratory laboratory [pablocarderam.github.io/labSquared](https://pablocarder
 
 [![labSquared logo][logo]](index.md)
 
-### **lab<sup>2</sup>** (labSquared) is a hypothetical lab manifesto, a thought-experiment on doing experiments, an outside-the-box exercise in imagining possible futures for science and research.
+### **lab<sup>2</sup>** (labSquared) is a hypothetical lab manifesto, a thought-experiment on doing experiments, an exercise in imagining possible futures for science and research.
 
 It is run by [Pablo Cárdenas](https://pablocarderam.github.io/), a grad student at [MIT Biological Engineering](https://be.mit.edu/).
 
