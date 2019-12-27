@@ -1,0 +1,50 @@
+# Project information
+site_name: labSquared
+site_description: '*A laboratory laboratory.* Manifesto for the lab of the (a) future.'
+site_author: 'Pablo Cárdenas'
+site_url: 'https://lab-squared.github.io/'
+
+# Repository
+repo_name: 'labSquared on GitHub'
+repo_url: 'https://github.com/pablocarderam/labSquared/'
+
+# Configuration
+theme:
+    name: material
+    logo: 'img/labSquared_logo_w.svg'
+    favicon: 'img/favicon-96x96.png'
+    font:
+        text: 'Cabin'
+        code: 'Ubuntu Mono'
+    palette:
+        primary: 'orange'
+        accent: 'indigo'
+
+# Customization
+nav:
+    - Reason: index.md
+    - Philosophy: philosophy.md
+    - Composition: composition.md
+    - Metabolism: metabolism.md
+    - Growth: growth.md
+    - Ecology: ecology.md
+    - + Info: info.md
+    - Print friendly : full.md
+
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/pcr_guy'
+    - type: 'github'
+      link: 'https://github.com/pablocarderam'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/pablocarderam'
+
+# Google Analytics
+google_analytics:
+    - 'UA-123988123-2'
+    - 'auto'
+
+# Extensions
+plugins:
+    - search
