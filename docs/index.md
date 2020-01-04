@@ -4,7 +4,7 @@
 
 ### **lab<sup>2</sup>** (labSquared) a science manifesto, a thought-experiment on doing experiments, an exercise exploring possible futures for science and research.
 
-It is run by [Pablo Cárdenas](https://pablocarderam.github.io/), a grad student at [MIT Biological Engineering](https://be.mit.edu/) at time of writing.
+It is run by [Pablo Cárdenas](info.md), a grad student at [MIT Biological Engineering](https://be.mit.edu/) at time of writing.
 
 ## *Why does a grad student make a fake lab website?*
 
@@ -20,7 +20,7 @@ Read it. Share it. Comment on it. Cut it apart into bits and pieces. If you are 
 
 The idea of making **lab<sup>2</sup>** entirely hypothetical is in part necessity, but also deliberate: as an imaginary research group, it can advance proposals (occassionally controversial to some) in all fronts at the same time. However, no single real group or individual is likely in a good position to do the same. In fact, perhaps it is desireable to spread out different proposals across labs, in order to evaluate their merit separately. Nevertheless, the more attempts at implementing its pieces, the more data points we have for a robust answer. I encourage you to innovate any time you can.
 
-On the other hand, many (if not most) of these proposals are not innovative in and of themselves. They come from the work of multiple people and have often already been the subject of intense scutiny, occasionally even implementation. I do my best to acknowledge those efforts where I am aware of them, and I return to update this work as I become aware of more.
+On the other hand, many (if not most) of these proposals are not innovative in and of themselves. They come from the work of multiple people and have often already been the subject of intense scutiny, occasionally even implementation. I do my best to acknowledge those efforts where I am aware of them, and I return to update this work as I become aware of more. Unfortunately, this work is not born of a meticulous bibliographical search.
 
 A print-friendly format of **lab<sup>2</sup>** is available [here](full.md) (thanks, [mkdocs-combine](https://twardoch.github.io/mkdocs-combine/)!).
 
