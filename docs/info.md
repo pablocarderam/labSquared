@@ -1,10 +1,15 @@
-# + Materials
+# + Info
 
+## Materials
+
+### Mentoring
 - [Uri Alon's Material for Nurturing Scientists](https://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists)
 - [MIT Biological Engineering's Grad Student Handbook](https://begradhandbook.mit.edu/), written by students of the [BE Grad Board](https://bestudents.mit.edu/) with input from the [BE REFS](berefs.com/)
 - [BE CommLab](https://mitcommlab.mit.edu/be/)
+- [ResearchHub](https://researchnow.researchhub.com/), [Knowledgr](https://www.knowledgr.io/), and [Qeios](https://www.qeios.com/) are all open science platforms exploring what an online, collaborative science framework can be like
 
-# About the author
+
+## About the author
 
 [Pablo Cárdenas](https://pablocarderam.github.io/) (he/him) is a grad student at the [Niles Lab](https://web.mit.edu/nileslab/) at [MIT Biological Engineering](https://be.mit.edu/) and a peer support Ref with the [BE REFS](berefs.com/).
 
@@ -12,7 +17,7 @@
 
 You are welcome to
 
-- view my work at [pablocarderam.github.io](https://pablocarderam.github.io/)
+- view my work at [pablo-cardenas.com](https://pablo-cardenas.com)
 - follow my science on [LinkedIn](https://www.linkedin.com/in/pablocarderam/), [ResearchGate](https://www.researchgate.net/profile/Pablo_Cardenas_R), and [ORCiD](https://orcid.org/0000-0001-7015-0512)
 - engage with my science views on [Twitter](https://twitter.com/pcr_guy)
-- reach out to pablocarderam *arroba* gmail *dot* com.
+- reach out to [pablocarderam@gmail.com](mailto:pablocarderam@gmail.com)

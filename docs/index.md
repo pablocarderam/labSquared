@@ -1,8 +1,8 @@
 # [![labSquared logo][logo]](index.md)
 
-# **lab<sup>2</sup>** is an imaginary lab handbook.
+# **lab<sup>2</sup>** (labSquared) is an imaginary lab handbook.
 
-### **lab<sup>2</sup>** (labSquared) a science manifesto, a thought-experiment on doing experiments, an exercise exploring possible futures for science and research.
+## A science manifesto, a thought-experiment on doing experiments, an exercise exploring possible futures for science and research.
 
 It is run by [Pablo Cárdenas](info.md), a grad student at [MIT Biological Engineering](https://be.mit.edu/) at time of writing.
 
