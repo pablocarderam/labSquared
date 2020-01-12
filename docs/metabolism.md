@@ -21,7 +21,7 @@ The Internet allows instantaneous, nearly cost-free sharing of information, some
 ### Research webs using _**lab2web**_
 One possible way of presenting this is using [an interactive mental map scheme](https://github.com/lab-squared/lab2web) such as the one shown below (may require updated browsers):
 
-<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="../jsnetworkx_lab2web.js"></script>
 <div id="lab2web"></div>
 <script type="text/javascript" src="../lab2web.js"></script>
