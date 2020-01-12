@@ -2,7 +2,6 @@
 
 ## Materials
 
-### Mentoring
 - [Uri Alon's Material for Nurturing Scientists](https://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists)
 - [MIT Biological Engineering's Grad Student Handbook](https://begradhandbook.mit.edu/), written by students of the [BE Grad Board](https://bestudents.mit.edu/) with input from the [BE REFS](berefs.com/)
 - [BE CommLab](https://mitcommlab.mit.edu/be/)

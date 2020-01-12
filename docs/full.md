@@ -1,4 +1,4 @@
-# [![labSquared logo][logo]](/Users/palo/Documents/GitHub/labSquared/site/index.md)
+# [![labSquared logo][logo]](index.md)
 
 # **lab<sup>2</sup>** (labSquared) is an imaginary lab handbook.
 
@@ -129,11 +129,18 @@ On the other hand, accelerating the pace of science and ensuring public funds ar
 
 ## Research
 
-The Internet allows instantaneous, nearly cost-free sharing of information, something unthinkable in the early days of modern science. To stay true to the fundamental goals of academic research and maximize the benefits it offers, **lab<sup>2</sup>** conducts research in a completely transparent way, taking advantage of the platform offered by web technologies. The lab's ongoing research and methodologies are made available and updated in real time on the lab website. One possible way of presenting this is using an interactive mental map scheme, shown below.
+The Internet allows instantaneous, nearly cost-free sharing of information, something unthinkable in the early days of modern science. To stay true to the fundamental goals of academic research and maximize the benefits it offers, **lab<sup>2</sup>** conducts research in a completely transparent way, taking advantage of the platform offered by web technologies. The lab's ongoing research and methodologies are made available and updated in real time on the lab website.
 
-[![labSquared logo][logo]](/Users/palo/Documents/GitHub/labSquared/site/index.md)
+### Research webs using _**lab2web**_
+One possible way of presenting this is using [an interactive mental map scheme](https://github.com/lab-squared/lab2web) such as the one shown below (may require updated browsers):
 
-Nodes on the map contain lines of research in the lab, with ovals denoting research hypotheses and rectangles denoting technology development. The color of a node denotes a hypothesis or technology's status as proven, disproven, or lacking enough evidence for a conclusion. Finally the border type signals a node's status as archived, current, or future line of research. Clicking on a node can present the evidence for or against the hypothesis or technology according to the lab's research, and link directly to the data and methods, protocols, and code used to acquire and analyze it. Data, protocols, and code are stored on a public, version-controlled repository such as GitHub, which allows easy tracking of where and when changes were made. Nodes are connected by directed edges, symbolizing logical or procedural dependence between different hypotheses and technologies. Tightly connected clusters of nodes can signal a unit publishable as a research article.
+# [![lab2web example][lab2web]](metabolism.md)
+
+[lab2web]: img/lab2web.png "lab2web example"
+
+To make these kinds of mental maps using a plug-and-play standard input file, check out [lab2web](https://github.com/lab-squared/lab2web).
+
+Nodes on the map contain lines of research in the lab, with text color denoting research hypotheses or methodological/technology development. The color of a node denotes a hypothesis or technology's status as supported by evidence, disproven, or lacking enough evidence for a conclusion. Finally the border type signals a node's status as archived, current, or future line of research. Clicking on a node can present the evidence for or against the hypothesis or technology according to the lab's research, and link directly to the data and methods, protocols, and code used to acquire and analyze it. Data, protocols, and code are stored on a public, version-controlled repository such as GitHub, which allows easy tracking of where and when changes were made. Nodes are connected by directed edges, symbolizing logical or procedural dependence between different hypotheses and technologies. Tightly connected clusters of nodes can signal a unit publishable as a research article.
 
 Clearly, science as a whole would benefit from open research practices such as these: other labs anywhere in the world could learn from the techniques and guide their own research questions according to recent, unpublished findings (with the caveat that they remain preliminary unless stated otherwise). However, **lab<sup>2</sup>** operates on the hypothesis that transparency in research also benefits the individual lab practicing it. Concretely, the **lab<sup>2</sup>** believes that **clear signaling of research intentions and progress results in more collaboration, faster independent confirmation of good data, and more frequent correction of flawed data** than it will result in "scooping", or other researchers taking promising research directions on their own and independently publishing the results in a peer-reviewed journal before **lab<sup>2</sup>** does. Of course, as with everything else in **lab<sup>2</sup>**, this is a hypothesis that needs empirical testing. However, [the success of preprinting](), first in physics and now in most other branches of science, shows that similar practices can not only allow research to thrive and flourish, but coexist with current practices and structures of research, funding, and publishing.
 
@@ -197,7 +204,6 @@ Informing funders and policymakers of the value and findings of scientific resea
 
 ## Materials
 
-### Mentoring
 - [Uri Alon's Material for Nurturing Scientists](https://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists)
 - [MIT Biological Engineering's Grad Student Handbook](https://begradhandbook.mit.edu/), written by students of the [BE Grad Board](https://bestudents.mit.edu/) with input from theBE REFS
 - [BE CommLab](https://mitcommlab.mit.edu/be/)
