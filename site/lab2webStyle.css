@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import 'https://fonts.googleapis.com/css?family=Homemade+Apple|Reenie+Beanie|Cabin';
+
+@font-face {
+	font-family: 'Homemade Apple local', cursive;
+	src: url("../assets/fonts/Homemade_Apple/HomemadeApple.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: 'Reenie Beanie local', cursive;
+	src: url("../assets/fonts/Reenie_Beanie/ReenieBeanie.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: 'Cabin local', cursive;
+	src: url("../assets/fonts/Cabin/Cabin-Regular.ttf") format('truetype');
+}
+
+body {
+	max-width:700px;
+	margin:auto;
+	font-family: 'Cabin', 'Cabin local', sans-serif;
+  font-size: 20px;
+  color: #3C3C3C;
+	text-align: left;
+	background: #fffcd9 /*linear-gradient(#EEDCAA, #ECBD3A);*/
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+p {
+	width: 500px;
+	margin: auto;
+	padding: 10px;
+}

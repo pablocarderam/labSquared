@@ -9,18 +9,18 @@ It is run by [Pablo Cárdenas](info.md), a grad student at [MIT Biological Engin
 ## *Why does a grad student make a fake lab website?*
 
 - because scientists themselves are increasingly voicing and listening to critiques about the way science works, and the time is ripe to join the conversation
-- because many of the problems identified can be solved by listening more closely to science trainees (and a broader audience in general)
+- because many of the problems identified can be solved by [listening more closely to science trainees](https://www.nature.com/articles/d41586-019-03489-1) (and [a broader audience in general](ecology.md))
 - because not being in a head-of-lab position gives freedom to experiment without compromise
-- because if trainees wait to be in a position where we can run our own labs, we may never get the chance to contribute our thoughts
+- because if trainees wait to be in a position where we can run our own labs, [we may never get the chance to contribute our thoughts](https://doi.org/10.1002/sres.2210)
 - because this can be a reminder to myself and others, if we do end up running anything in the future
 
 ## *What can I do with **lab<sup>2</sup>**?*
 
-Read it. Share it. Comment on it. Cut it apart into bits and pieces. If you are intrigued by any one part of it and are in a position to do so, take it for a spin. Make your own modifications. Contribute your feedback.
+Skim it. Read it. Share it. Comment on it. Cut it apart into bits and pieces. If you are intrigued by any one part of it and are in a position to do so, take it for a spin. [Make your own modifications](https://github.com/pablocarderam/labSquared/). [Contribute your feedback](info.md).
 
-The idea of making **lab<sup>2</sup>** entirely hypothetical is in part necessity, but also deliberate: as an imaginary research group, it can advance proposals (occassionally controversial to some) in all fronts at the same time. However, no single real group or individual is likely in a good position to do the same. In fact, perhaps it is desireable to spread out different proposals across labs, in order to evaluate their merit separately. Nevertheless, the more attempts at implementing its pieces, the more data points we have for a robust answer. I encourage you to innovate any time you can.
+The idea of making **lab<sup>2</sup>** entirely hypothetical is in part necessity, but also deliberate: as an imaginary research group, it can advance proposals (occasionally controversial to some) in all fronts at the same time. However, no single real group or individual is likely in a good position to do the same. In fact, perhaps it is desirable to spread out different proposals across labs, in order to evaluate their merit separately. Nevertheless, the more attempts at implementing its pieces, the more data points we have for a robust answer. You are encouraged to innovate any time you can.
 
-On the other hand, many (if not most) of these proposals are not innovative in and of themselves. They come from the work of multiple people and have often already been the subject of intense scutiny, occasionally even implementation. I do my best to acknowledge those efforts where I am aware of them, and I return to update this work as I become aware of more. Unfortunately, this work is not born of a meticulous bibliographical search.
+On the other hand, many (if not most) of these proposals are not innovative in and of themselves. They come from the work of multiple people and have often already been the subject of intense scrutiny, occasionally even implementation. I do my best to acknowledge those efforts where I am aware of them, and I return to update this work as I become aware of more. For better or worse, this work is less born of a meticulous bibliographical search than [a personal record of observations and conversations](info.md).
 
 A print-friendly format of **lab<sup>2</sup>** is available [here](full.md) (thanks, [mkdocs-combine](https://twardoch.github.io/mkdocs-combine/)!).
 
