@@ -131,7 +131,7 @@ class ResearchWeb {
     this.lines = []
 
     //var str_input = readTextFile(filePath);
-    research = str_input.split('ID: ');
+    var research = str_input.split('ID: ');
 
     for (var i = 0; i < research.length; i++) {
       if (research[i].search('\nTITLE: ') > 0) {
