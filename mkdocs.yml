@@ -49,3 +49,18 @@ google_analytics:
 # Extensions
 plugins:
     - search
+
+# Add these tags manually to website head:
+# <meta name="twitter:card" content="summary_large_image">
+# <meta name="twitter:site" content="@pcr_guy">
+# <meta name="twitter:creator" content="@pcr_guy">
+# <meta name="twitter:title" content="labSquared: A laboratory laboratory">
+# <meta name="twitter:description" content="labSquared is an imaginary lab handbook. A science manifesto, a thought-experiment on doing experiments, an exercise exploring possible futures for science and research.">
+# <meta name="twitter:image" content="https://github.com/lab-squared/lab-squared.github.io/blob/master/img/labSquared_logo_square.png?raw=true">
+#
+# <meta property="og:image" content="https://github.com/lab-squared/lab-squared.github.io/blob/master/img/labSquared_logo_title.png?raw=true" />
+# <meta property="og:type" content="website" />
+# <meta property="og:url" content="https://lab-squared.github.io/" />
+# <meta property="og:title" content="labSquared: A laboratory laboratory" />
+# <meta property="og:site_name" content="labSquared" />
+# <meta property="og:description" content="labSquared is an imaginary lab handbook. A science manifesto, a thought-experiment on doing experiments, an exercise exploring possible futures for science and research." />
