@@ -24,9 +24,9 @@ You are welcome to
 - Dobzhansky first made his famous assertion in [an essay calling for the importance of organismic biology at the height of the 1960s molecular biology craze](https://doi.org/10.1093%2Ficb%2F4.4.443).
 
 ### Composition
-- C.R. Darwin's [Origin of The Species](https://www.gutenberg.org/ebooks/1228) already underscores the importance of variation.
+- C.R. Darwin's [Origin of The Species](https://www.gutenberg.org/ebooks/1228) (1859) already underscores the importance of variation.
 - Business researchers at [Harvard](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse) and [Boston Consulting](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation.aspx), among others, have established the advantages of diverse teams in problem solving and overall company performance.
-- [Many mechanisms have been put into practice to this end]().
+- J.L. Wood (2019) outlines [four strategies for diversity in recruitment practices](https://diverseeducation.com/article/149878/): implicit bias training, certification of applicant pools, having diversity advocates on committees, and adopting inclusive job search criteria.
 - B. Latour famously pioneered laboratory ethnographies in his 1973 book _[Laboratory Life: The Construction of Scientific Facts](https://doi.org/10.2307/j.ctt32bbxc)_.
 - G. Bennett and P. Rabinow repeated a similar exercise as part of the Synthetic Biology Engineering Research Center, chronicled in 2009's [Designing Human Practices](https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo12986260.html).
 - [Fermilab hosts artists-in-residence](https://events.fnal.gov/art-gallery/artist-in-residence/), as do many other scientific institutes.
@@ -48,14 +48,14 @@ You are welcome to
 
 ### Growth
 - [Feldon et al. (2019)](https://doi.org/10.1073/pnas.1912488116) find senior lab member mentorship, not direct PI mentorship, is the most important factor determining future career success for a cohort of bioscience PhD students in the US over 4 years.
-- [Numerous others have given teaching the attention it warrants elsewhere]().
+- Indeed, the literature on teaching and pedagogy is far too vast to review. In *[What the Best College Teachers Do](https://www.hup.harvard.edu/catalog.php?isbn=9780674013254)*, K. Bain (2004) reviews observations of over 100 college professors, which he summarizes in [this 2015 interview](https://www.npr.org/sections/ed/2015/05/08/404960905/what-the-best-college-teachers-do). P. Freire's 1968 [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) is a seminal work in pedagogy.
 - [The MIT BE Comm Lab](https://mitcommlab.mit.edu/) has a number of excellent online resources available to all, and there are several more initiatives like it elsewhere.
 - Simine Vazire [writes an editorial calling for more regard for scientists pointing out mistakes](https://doi.org/10.1038/d41586-019-03909-2), particularly trainees.
 
 
 ### Ecology
 - The donations made by convicted sexual criminal Jeffrey Epstein to MIT resulted in [an external investigation into the matter](http://factfindingjan2020.mit.edu/files/MIT-report.pdf), which found serious errors in judgement on behalf of the administration even if no laws were broken. Regardless, the episode resulted in resignations within MIT and [strong reaction from the public](https://www.theguardian.com/commentisfree/2019/sep/07/jeffrey-epstein-mit-funding-tech-intellectuals).
-- [the term "general public" homogenizes a wide range of interest groups]()
+- "[the term "general public" homogenizes a wide range of interest groups]()": I am aware I read this at some point in time before, but cannot recall where. Any references to this end would be welcome.
 - Besides the ubiquity of [#SciComm on Science Twitter](https://twitter.com/search?q=%23scicomm&src=typeahead_click), a [conference on the matter](https://www.scicommsummit.com/) has been gaining traction as of late.
 - Methodologies like [Community-Based Participatory Research](https://en.wikipedia.org/wiki/Community-based_participatory_research) or [Participatory Action Research](https://en.wikipedia.org/wiki/Participatory_action_research) can involve other groups normally marginal to scientific research. The [Public Lab](https://publiclab.org) is an interesting instance of similar kinds of approaches in environmental research.
 
