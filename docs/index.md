@@ -4,7 +4,7 @@
 
 ## A science manifesto, a thought-experiment on doing experiments, an exercise exploring possible futures for science and research.
 
-It is run by [Pablo Cárdenas](info.md), a grad student at [MIT Biological Engineering](https://be.mit.edu/) at time of writing.
+It is run by [Pablo Cárdenas](author.md), a grad student at [MIT Biological Engineering](https://be.mit.edu/) at time of writing.
 
 ## *Why does a grad student make a fake lab website?*
 

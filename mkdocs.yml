@@ -29,6 +29,7 @@ nav:
     - Growth: growth.md
     - Ecology: ecology.md
     - + Info: info.md
+    - Author: author.md
     - Print friendly : full.md
 
 extra:
