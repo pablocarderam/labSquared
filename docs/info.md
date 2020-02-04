@@ -26,14 +26,17 @@
 - Jean-Claude Bradley laid down the ideas for open-notebook science [in this 2006 blog post](http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html).
 - Openlabnotebooks.org have collected [a number of resources on the subject](https://openlabnotebooks.org/about/)
 - [**lab2web**](https://github.com/lab-squared/lab2web) is a (somewhat crude) interactive mental map scheme made for this work, available as open source on GitHub.
+- [Open Knowledge Maps](https://openknowledgemaps.org/index) is a non-profit that builds visual representations of information and research.
 - [Fraser et al. (2019)](https://www.biorxiv.org/content/10.1101/673665v1) and [Abdil & Blekhman (2019)](https://dx.doi.org/10.7554/eLife.45133) examine the success of preprinting on biorXiv.
 - Popular reprint repositories include [arXiv](https://www.arxiv.org/), [biorXiv](https://www.biorxiv.org/), [medrXiv](https://www.medrxiv.org/), and [psyArXiv](https://www.psyArXiv.com/).
 - ASAPbio, Howard Hughes Medical Institute (HHMI), and Wellcome held a meeting on “Transparency, Recognition, and Innovation in Peer Review in the Life Sciences” on February 7-9, 2018. Archives of the meeting can be found [here](https://asapbio.org/peer-review).
+- [Tennant et al. (2019)](https://doi.org/10.3390/publications7020034) briefly review some of the most common questions surrounding preprints, open access, and scholarly publishing.
 - [Wellcome Open Research](https://wellcomeopenresearch.org/about) is a journal run by the Wellcome Trust operating by immediate publication and post-publication, invited, open peer review.
 - Resources for navigating Science Twitter are being published on journals such as this piece by [Heemstra (2019)](https://pubs.acs.org/doi/10.1021/acscentsci.9b01273).
 - [ResearchHub](https://researchnow.researchhub.com/), [Knowledgr](https://www.knowledgr.io/), and [Qeios](https://www.qeios.com/) are all open science platforms exploring what an online, collaborative science framework can be like. [ResearchGate](https://www.researchgate.net/) is a slightly more established, if more traditional, social network for scientists.
 
 ### Growth
+- [Lambert et al. (2020)](https://doi.org/10.7554/eLife.48774) survey women and underrepresented minority postdocs in the life sciences considering academia as a career path, finding they would value clearer mentorship outside the lab as well as more training in transitioning to research independence, teaching, and community-based research, among others.
 - [Feldon et al. (2019)](https://doi.org/10.1073/pnas.1912488116) find senior lab member mentorship, not direct PI mentorship, is the most important factor determining future career success for a cohort of bioscience PhD students in the US over 4 years.
 - Indeed, the literature on teaching and pedagogy is far too vast to review. In *[What the Best College Teachers Do](https://www.hup.harvard.edu/catalog.php?isbn=9780674013254)*, K. Bain (2004) reviews observations of over 100 college professors, which he summarizes in [this 2015 interview](https://www.npr.org/sections/ed/2015/05/08/404960905/what-the-best-college-teachers-do). P. Freire's 1968 [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) is a seminal work in pedagogy.
 - [The MIT BE Comm Lab](https://mitcommlab.mit.edu/) has a number of excellent online resources available to all, and there are several more initiatives like it elsewhere.
@@ -45,6 +48,7 @@
 - "[the term "general public" homogenizes a wide range of interest groups]()": I am aware I read this at some point in time before, but cannot recall where. Any references to this end would be welcome.
 - Besides the ubiquity of [#SciComm on Science Twitter](https://twitter.com/search?q=%23scicomm&src=typeahead_click), a [conference on the matter](https://www.scicommsummit.com/) has been gaining traction as of late.
 - Methodologies like [Community-Based Participatory Research](https://en.wikipedia.org/wiki/Community-based_participatory_research) or [Participatory Action Research](https://en.wikipedia.org/wiki/Participatory_action_research) can involve other groups normally marginal to scientific research. The [Public Lab](https://publiclab.org) is an interesting instance of similar kinds of approaches in environmental research.
+- [Lambert et al. (2020)](https://doi.org/10.7554/eLife.48774), see **Growth** notes above.
 
 ### Miscellaneous
 - Uri Alon has compiled a collection of [Material for Nurturing Scientists](https://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists).
