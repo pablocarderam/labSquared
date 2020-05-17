@@ -273,7 +273,7 @@ You are welcome to
 - engage with my science views on [Twitter](https://twitter.com/pcr_guy)
 - reach out to pablocarderam@gmail.com
 
-This project began based on mulling over conversations and observations gathered during an incredibly lucky three-year period spent getting a taste of work in ten different research groups with specialties spanning field, theoretical, and laboratory work, with wildly different budgets, in academia and industry, strewn across five institutions in three different continents. I am grateful to all the fellow grad students, research scientists, postdocs, interns, mentors, trainees, students, professors, and random invited seminar speakers that knowingly and unknowingly contributed to this work, and I regret not being able to credit them all by name. Heartfelt thanks to all past and present hosts and mentors at:
+This project began based on mulling over conversations and observations gathered during an incredibly lucky three-year period spent getting a taste of work in ten different research groups, with specialties spanning field, theoretical, and laboratory work, with wildly different budgets, in academia and industry, strewn across five institutions in three different continents. I am grateful to all the fellow grad students, research scientists, postdocs, interns, mentors, trainees, students, professors, and random invited seminar speakers that knowingly and unknowingly contribute to this work, and I regret not being able to credit them all by name. Heartfelt thanks to all past and present hosts and mentors at:
 
 - The [Mathematical and Computational Biology Group (BIOMAC)](https://biomac.uniandes.edu.co) at Uniandes
 - The [Uniandes Biophysics Laboratory](https://biofisica.uniandes.edu.co/en/) at Uniandes
