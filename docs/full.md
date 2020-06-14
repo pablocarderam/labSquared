@@ -264,7 +264,7 @@ However, it is just as important to remember that communication in science works
 
 # About the author
 
-[Pablo Cárdenas](https:/pablo-cardenas.com/) (he/him) is a grad student at the [Niles Lab](https://web.mit.edu/nileslab/) at [MIT Biological Engineering](https://be.mit.edu/), a coding fellow at the [BE Data Lab](https://bedatalab.github.io/), and a peer support Ref with theBE REFS.
+[Pablo Cárdenas](https://pablo-cardenas.com/) (he/him) is a grad student at the [Niles Lab](https://web.mit.edu/nileslab/) at [MIT Biological Engineering](https://be.mit.edu/), a coding fellow at the [BE Data Lab](https://bedatalab.github.io/), and a peer support Ref with theBE REFS.
 
 You are welcome to
 

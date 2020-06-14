@@ -1,6 +1,6 @@
 # About the author
 
-[Pablo Cárdenas](https:/pablo-cardenas.com/) (he/him) is a grad student at the [Niles Lab](https://web.mit.edu/nileslab/) at [MIT Biological Engineering](https://be.mit.edu/), a coding fellow at the [BE Data Lab](https://bedatalab.github.io/), and a peer support Ref with the [BE REFS](berefs.com/).
+[Pablo Cárdenas](https://pablo-cardenas.com/) (he/him) is a grad student at the [Niles Lab](https://web.mit.edu/nileslab/) at [MIT Biological Engineering](https://be.mit.edu/), a coding fellow at the [BE Data Lab](https://bedatalab.github.io/), and a peer support Ref with the [BE REFS](berefs.com/).
 
 You are welcome to
 
